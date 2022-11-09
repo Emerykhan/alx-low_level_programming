@@ -1,1 +1,1 @@
-# this is all about static libraries
+c - Statics libraries
